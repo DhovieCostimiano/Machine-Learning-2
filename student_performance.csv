@@ -1,0 +1,84 @@
+attendance_percent,assessment_score,late_submissions,participation,final_status
+92,85,0,High,Pass
+78,68,1,Medium,At Risk
+61,55,3,Low,Fail
+88,74,0,Medium,Pass
+70,60,2,Low,At Risk
+95,90,0,High,Pass
+82,78,1,Medium,Pass
+74,65,2,Low,At Risk
+66,58,3,Low,Fail
+90,88,0,High,Pass
+85,80,1,Medium,Pass
+72,62,2,Low,At Risk
+64,55,3,Low,Fail
+89,76,1,Medium,Pass
+77,67,2,Low,At Risk
+94,92,0,High,Pass
+81,75,1,Medium,Pass
+69,61,2,Low,At Risk
+63,54,3,Low,Fail
+91,86,0,High,Pass
+86,82,1,Medium,Pass
+73,64,2,Low,At Risk
+67,59,3,Low,Fail
+88,79,1,Medium,Pass
+80,70,2,Low,At Risk
+60,50,4,Low,Fail
+93,89,0,High,Pass
+84,77,1,Medium,Pass
+71,63,2,Low,At Risk
+65,56,3,Low,Fail
+90,83,0,High,Pass
+87,81,1,Medium,Pass
+75,66,2,Low,At Risk
+68,57,3,Low,Fail
+92,87,0,High,Pass
+83,72,1,Medium,Pass
+70,62,2,Low,At Risk
+62,53,3,Low,Fail
+89,78,1,Medium,Pass
+79,69,2,Low,At Risk
+58,48,4,Low,Fail
+94,91,0,High,Pass
+85,79,1,Medium,Pass
+72,61,2,Low,At Risk
+64,52,3,Low,Fail
+91,84,0,High,Pass
+88,80,1,Medium,Pass
+76,67,2,Low,At Risk
+69,58,3,Low,Fail
+90,85,0,High,Pass
+82,74,1,Medium,Pass
+71,60,2,Low,At Risk
+63,51,3,Low,Fail
+87,76,1,Medium,Pass
+78,68,2,Low,At Risk
+59,49,4,Low,Fail
+93,88,0,High,Pass
+86,83,1,Medium,Pass
+74,63,2,Low,At Risk
+66,55,3,Low,Fail
+89,81,1,Medium,Pass
+80,71,2,Low,At Risk
+61,52,3,Low,Fail
+95,93,0,High,Pass
+84,78,1,Medium,Pass
+73,62,2,Low,At Risk
+65,54,3,Low,Fail
+91,87,0,High,Pass
+85,82,1,Medium,Pass
+77,68,2,Low,At Risk
+68,59,3,Low,Fail
+88,75,1,Medium,Pass
+81,73,1,Medium,Pass
+69,60,2,Low,At Risk
+62,51,3,Low,Fail
+90,82,0,High,Pass
+83,71,1,Medium,Pass
+70,61,2,Low,At Risk
+63,50,3,Low,Fail
+86,77,1,Medium,Pass
+79,70,2,Low,At Risk
+57,47,4,Low,Fail
+92,89,0,High,Pass
